@@ -12,4 +12,4 @@ carbon footprint.
 During the hackathon, I worked on UI/UX, designing the full flow of the mobile
 application, as well as some other marketing materials for our pitch.
 
-The pitch deck can be found [here](media/pitch deck.pdf)
+The pitch deck can be found [here](media/pitch-deck.pdf)
