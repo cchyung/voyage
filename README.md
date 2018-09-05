@@ -9,6 +9,9 @@ coworkers across various segments of the company as well as reduce Viasat's
 carbon footprint.
 
 ## What I Worked On
+<img src="media/find-ride.gif">
+<img src="media/rewards.gif">
+
 During the hackathon, I worked on UI/UX, designing the full flow of the mobile
 application, as well as some other marketing materials for our pitch.
 
