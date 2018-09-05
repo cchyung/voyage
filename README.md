@@ -1,5 +1,5 @@
 # Voyage
-![voyage square logo](media/logo-square.png)
+<img src="media/logo-square.png" style="height: 250; width: 250">
 
 ## About
 Voyage was a product idea created during Viasat's 2018 Summer Internship
